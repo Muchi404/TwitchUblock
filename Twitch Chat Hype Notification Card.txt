@@ -1,2 +1,5 @@
 !https://www.twitch.tv Chat Hype Notification Card
+
 www.twitch.tv##.community-highlight-stack__card--wide.community-highlight-stack__card.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight-stack__card.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight-stack__backlog-card.bOXccC.Layout-sc-1xcs6mc-0
