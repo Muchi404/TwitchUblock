@@ -1,0 +1,2 @@
+!https://www.twitch.tv Bits Button Header
+www.twitch.tv##div.VxLcr.Layout-sc-1xcs6mc-0 > .ihSefD.Layout-sc-1xcs6mc-0 > .iDMNUO.InjectLayout-sc-1i43xsx-0 > .Layout-sc-1xcs6mc-0 > .fHdBNk.Layout-sc-1xcs6mc-0 > .yezmM.ScCoreButton-sc-ocjdkq-0

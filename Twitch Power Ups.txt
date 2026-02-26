@@ -1,0 +1,7 @@
+!https://www.twitch.tv Power Ups
+www.twitch.tv##.eRvpBE.Layout-sc-1xcs6mc-0
+www.twitch.tv##.oneTapStoreMenu--hyv_R.hOOTGF.Layout-sc-1xcs6mc-0
+www.twitch.tv##.tw-interactable.gHDhCk.gOYGKi.ScInteractableDefault-sc-ofisyf-1.ScInteractableBase-sc-ofisyf-0
+www.twitch.tv##.eCNebZ.Layout-sc-1xcs6mc-0
+www.twitch.tv##.kqJeeo.Layout-sc-1xcs6mc-0 > .ScAnimatedNumber-sc-1iib0w9-0
+www.twitch.tv##.cceijo.Layout-sc-1xcs6mc-0 > .bsLreE.CoreText-sc-1txzju1-0
