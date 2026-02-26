@@ -3,3 +3,5 @@ www.twitch.tv##.marqueeAnimation__wrapView--KEVbC.JxIvc.Layout-sc-1xcs6mc-0
 
 www.twitch.tv##.dRMwTz.Layout-sc-1xcs6mc-0
 www.twitch.tv##.dewBQX.Layout-sc-1xcs6mc-0 > .eOHCrm.Layout-sc-1xcs6mc-0
+
+www.twitch.tv##.jHaTPE.Layout-sc-1xcs6mc-0
