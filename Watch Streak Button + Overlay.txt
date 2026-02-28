@@ -1,0 +1,5 @@
+!https://www.twitch.tv - Watch Streak In Channel Points
+www.twitch.tv##.fhvqaG.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv - Watch Streak Button In Channel Points
+www.twitch.tv##.grrQQl.ScSelectableLabel-sc-1honq7d-1
