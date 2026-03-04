@@ -1,0 +1,55 @@
+!https://www.twitch.tv - Watch Streak In Channel Points
+www.twitch.tv##.fhvqaG.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv - Watch Streak Button In Channel Points
+www.twitch.tv##.grrQQl.ScSelectableLabel-sc-1honq7d-1
+
+!https://www.twitch.tv Streamer Goals
+www.twitch.tv##.CNDKn.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv Power Ups
+www.twitch.tv##.eRvpBE.Layout-sc-1xcs6mc-0
+www.twitch.tv##.oneTapStoreMenu--hyv_R.hOOTGF.Layout-sc-1xcs6mc-0
+www.twitch.tv##.tw-interactable.gHDhCk.gOYGKi.ScInteractableDefault-sc-ofisyf-1.ScInteractableBase-sc-ofisyf-0
+www.twitch.tv##.eCNebZ.Layout-sc-1xcs6mc-0
+www.twitch.tv##.kqJeeo.Layout-sc-1xcs6mc-0 > .ScAnimatedNumber-sc-1iib0w9-0
+www.twitch.tv##.cceijo.Layout-sc-1xcs6mc-0 > .bsLreE.CoreText-sc-1txzju1-0
+
+!https://www.twitch.tv Leaderboard - Expanded
+www.twitch.tv##.lcYxMK.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv Leaderboard - Collapsed
+www.twitch.tv##.marqueeAnimation__wrapView--KEVbC.JxIvc.Layout-sc-1xcs6mc-0
+
+www.twitch.tv##.dRMwTz.Layout-sc-1xcs6mc-0
+www.twitch.tv##.dewBQX.Layout-sc-1xcs6mc-0 > .eOHCrm.Layout-sc-1xcs6mc-0
+
+!Donation Goal
+www.twitch.tv##.jHaTPE.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv Chat Hype Notification Card
+
+www.twitch.tv##.community-highlight-stack__card--wide.community-highlight-stack__card.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight-stack__card.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight-stack__backlog-card.bOXccC.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv Bits Button Under Video
+www.twitch.tv##.gWaIYG.Layout-sc-1xcs6mc-0 > .ihSefD.Layout-sc-1xcs6mc-0 > .iDMNUO.InjectLayout-sc-1i43xsx-0 > .Layout-sc-1xcs6mc-0 > .fHdBNk.Layout-sc-1xcs6mc-0 > .yezmM.ScCoreButton-sc-ocjdkq-0
+
+!https://www.twitch.tv Bits Button Header
+www.twitch.tv##div.VxLcr.Layout-sc-1xcs6mc-0 > .ihSefD.Layout-sc-1xcs6mc-0 > .iDMNUO.InjectLayout-sc-1i43xsx-0 > .Layout-sc-1xcs6mc-0 > .fHdBNk.Layout-sc-1xcs6mc-0 > .yezmM.ScCoreButton-sc-ocjdkq-0
+
+!https://www.twitch.tv Bits - Dino/Hearts etc
+www.twitch.tv##.gEvECC.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv Bits Balance/Button In Channel Points Area
+www.twitch.tv##.kFLrqZ.Layout-sc-1xcs6mc-0 > .iDMNUO.InjectLayout-sc-1i43xsx-0 > .yezmM.ScCoreButton-sc-ocjdkq-0
+
+!https://www.twitch.tv About Section (PC Specs, Socials, About Me Intro/Blurb etc)
+www.twitch.tv##.channel-panels.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv Tags
+www.twitch.tv##.dwGPiE.InjectLayout-sc-1i43xsx-0
+
+!https://www.twitch.tv Sub Recap
+www.twitch.tv##.gcyYdE.Layout-sc-1xcs6mc-0
