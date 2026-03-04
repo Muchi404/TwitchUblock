@@ -53,3 +53,7 @@ www.twitch.tv##.dwGPiE.InjectLayout-sc-1i43xsx-0
 
 !https://www.twitch.tv Sub Recap
 www.twitch.tv##.gcyYdE.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv
+||cdn.7tv.app/emote/01JME7XMX6S2GJ14FENTQZED53/*x.webp$image
+||cdn.7tv.app/emote/01JME7XMX6S2GJ14FENTQZED53/*x.webp$image
