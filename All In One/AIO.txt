@@ -60,3 +60,6 @@ www.twitch.tv##.gcyYdE.Layout-sc-1xcs6mc-0
 
 !https://www.twitch.tv - Discounted Subs Banner Below Video
 www.twitch.tv##.kFLrqZ.Layout-sc-1xcs6mc-0 > .ihSefD.Layout-sc-1xcs6mc-0
+
+!https://www.twitch.tv - Bits On Stream Overlay
+www.twitch.tv##.oneTapStoreMenu--hyv_R.jriIIo.Layout-sc-1xcs6mc-0
